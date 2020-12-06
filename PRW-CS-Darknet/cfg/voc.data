@@ -1,0 +1,6 @@
+classes= 20
+train  = /home/pjreddie/data/voc/train.txt
+valid  = cfg/2007_test.txt
+names = cfg/voc.names
+backup = backup/
+

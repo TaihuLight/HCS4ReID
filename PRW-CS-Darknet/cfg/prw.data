@@ -1,0 +1,7 @@
+classes= 1
+train  = cfg/prw-test.txt
+#valid  = cfg/prw-test.txt
+valid  = cfg/prw-test-csrec.txt
+names = cfg/prw.names
+backup = backup
+eval=voc
