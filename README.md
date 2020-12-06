@@ -1,3 +1,3 @@
 # HCS4ReID
 
-# The trained models can be download from 
+The trained models can be download from 
